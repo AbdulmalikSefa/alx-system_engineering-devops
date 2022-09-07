@@ -1,3 +1,5 @@
 [user]
 	email = alladinethiopia@gmail.com
 	name = AbdulmalikSefa
+[push]
+	default = current
